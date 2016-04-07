@@ -18,8 +18,11 @@ public class SimpleEventDemo extends JFrame{
 		frame.setLocationRelativeTo(null);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.setVisible(true);
+
 		System.out.println("赖振达做出修改");
 		System.out.println("赖振达做出修改");
+		System.out.println("陈培嘉做出修改");
+
 	}
 class OKListener implements ActionListener{
 	public void actionPerformed(ActionEvent e){
