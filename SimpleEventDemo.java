@@ -18,6 +18,7 @@ public class SimpleEventDemo extends JFrame{
 		frame.setLocationRelativeTo(null);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.setVisible(true);
+		System.out.println("³ÂÅà¼Î×ö³öÐÞ¸Ä");
 	}
 class OKListener implements ActionListener{
 	public void actionPerformed(ActionEvent e){
